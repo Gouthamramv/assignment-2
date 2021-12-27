@@ -19,7 +19,8 @@ System.out.println(mobileCost);
 	
 	public void sendMsg() {
 System.out.println("msg sent");
-	}
+System.out.println(mobileModel);	
+}
 	
 	public static void main(String[] args) {
 
